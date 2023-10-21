@@ -1,0 +1,1 @@
+print('b' in 'ammar') # returns false 
