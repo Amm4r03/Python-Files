@@ -8,10 +8,6 @@ num1 = int(input("enter a number : "))
 num2 = int(input("enter another number : "))
 num3 = int(input("enter another number : "))
 
-max_num = max(num1, num2, num3)
-
-print(max_num)
-
 if num1 > num2:
     if num1 > num3 : 
         print("{} is the greatest of 3 input numbers".format(num1))
