@@ -1,2 +1,2 @@
 # Python-Files
-repository for all my python code/projects ive written for my course
+repository for all my python code/projects ive written for my course 'programming with python'
