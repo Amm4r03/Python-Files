@@ -8,7 +8,7 @@ units = int(input("Enter the number of units consumed : "))
 
 if units <= 50:
     bill = 100
-elif units > 50 and units < 300:
+elif units > 50 and units <300:
     bill = units * 4.5
 else:
     payableUnits = units - 300

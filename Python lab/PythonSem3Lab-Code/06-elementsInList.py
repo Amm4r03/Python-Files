@@ -61,8 +61,16 @@ print(testList)
 # using pop()
 testList.pop(-1)    # removes 'mumbai' from the list
 print(testList)
+print("\n\n")
 
 # =================== CONTINUED ========================
+'''
+author	:	Ammar Ahmad Kidwai (2022-350-005)
+topic	:	experiment 6 (continued)
+title   :	operations on list
+'''
+
+print("current list continued from previous part : \n{}".format(testList))
 
 testList.append('chennai')
 print(testList)
